@@ -1,0 +1,15 @@
+{
+  "name": "mongo-cli",
+  "version": "0.0.1",
+  "description": "MongoDB CLI",
+  "bin" : "./bin/mongo-cli",
+  "author": {
+    "name": "Robert Klep",
+    "email": "robert@klep.name"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "mongoskin": "^1.4.4",
+    "nomnom": "^1.7.0"
+  }
+}
