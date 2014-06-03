@@ -22,6 +22,6 @@ $ mongocli mongodb://localhost/test users '{ name : "Jack" }' '{ _id : 1 }'
 
 ## Notes
 
-* `QUERY` and `FIELDS` don't have to be valid JSON (they do have to be valid JS, though);
-* You can use `ObjectId()` in `QUERY`;
-* Output is unformatted JSON; if you want to pretty-print or to process further, take a look at [jq](stedolan.github.io/jq/);
+* `QUERY` and `FIELDS` don't have to be valid JSON (they do have to be valid JS, though)
+* You can use `ObjectId()` in `QUERY`
+* Output is unformatted JSON; if you want to pretty-print or to process further, take a look at [jq](http://stedolan.github.io/jq/)
