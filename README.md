@@ -1,8 +1,6 @@
-# mongo-cli
+# mongo-cli v1.0.0
 
 CLI tool for [MongoDB](http://www.mongodb.com/)
-
-*Current version: 1.0.0*
 
 ## Install
 
