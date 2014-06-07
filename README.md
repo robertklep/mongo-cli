@@ -2,6 +2,8 @@
 
 CLI tool for [MongoDB](http://www.mongodb.com/)
 
+*Current version: 1.0.0*
+
 ## Install
 
 ```
@@ -29,7 +31,7 @@ Options:
 For example:
 
 ```
-$ mongocli mongodb://localhost/test users '{ name : "Jack" }' '{ _id : 1 } --limit 10'
+$ mongocli mongodb://localhost/test users '{ name : "Jack" }' '{ _id : 1 }' --limit 10
 ```
 
 ## Notes
