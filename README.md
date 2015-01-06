@@ -1,4 +1,4 @@
-# mongo-cli v1.0.0
+# mongo-cli v1.0.1
 
 CLI tool for [MongoDB](http://www.mongodb.com/)
 
