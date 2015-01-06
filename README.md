@@ -1,4 +1,4 @@
-# mongo-cli
+# mongo-cli v1.0.0
 
 CLI tool for [MongoDB](http://www.mongodb.com/)
 
@@ -29,7 +29,7 @@ Options:
 For example:
 
 ```
-$ mongocli mongodb://localhost/test users '{ name : "Jack" }' '{ _id : 1 } --limit 10'
+$ mongocli mongodb://localhost/test users '{ name : "Jack" }' '{ _id : 1 }' --limit 10
 ```
 
 ## Notes
